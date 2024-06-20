@@ -10,6 +10,7 @@ public enum GunesSistemi {
     Uranus(7,"2 milyar 970 milyom km",25884,"30589 dünya günü"),
     Neptun(8,"4 milyar 568 milyon km",24569,"59800 dünya günü");
 
+
     private final int sira;
     private final String guneseMesafe;
     private final int yaricap;
